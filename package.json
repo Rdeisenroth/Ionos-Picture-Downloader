@@ -1,0 +1,15 @@
+{
+  "name": "ionos-picture-downloader",
+  "version": "1.0.0",
+  "description": "Download Pictures from 1&1 Website builder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Deisenroth",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
